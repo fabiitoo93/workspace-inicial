@@ -1,4 +1,4 @@
-const URL = "https://japceibal.github.io/emercado-api/cats_products/101.json"
+const URL = "https://japceibal.github.io/emercado-api/"
 +
 fetch(URL) 
 .then((resp) => resp.json())
